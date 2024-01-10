@@ -1,0 +1,54 @@
+html {
+  background-color: #ff9843;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 50px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: white;
+}
+h2 {
+  font-size: 35px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: white;
+}
+h3 {
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: left;
+  color: white;
+}
+li {
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: left;
+  color: white;
+}
+.bio {
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: left;
+  background-color: #ffdd95;
+  color: black;
+  padding: 10px;
+}
+.recent_projects {
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #86a7fc;
+  width: 100%;
+  padding: 10px;
+}
+.coming_soon {
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #3468c0;
+  padding: 10px;
+}
